@@ -1,4 +1,4 @@
-# Übung 7: Assembler
+# Übung 8: Assembler
 
 In dieser Aufgabe sollen Sie die Arbeitsweise eines Assemblers anhand des folgenden Beispielprogramms für die vereinfachte Mikroprozessor-Architektur aus der Vorlesung nachvollziehen, die der x86-Architektur ähnlich ist. Das Befehlsformat ist gegenüber der x86-Architektur vereinfacht und besteht aus den folgenden Elementen:
 
