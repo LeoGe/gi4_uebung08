@@ -1,5 +1,7 @@
 # Aufgabe 3 Objektdatei
 
+[b] bedeutet Leerzeichen
+
 H | cntdwn | 0000 | 0094  
 S | .text[b] | 0000 | 007D | .data_ | 007D | 0013  
 D | _main[b] | 00000000 | _msg[b][b] | 0000007D  
